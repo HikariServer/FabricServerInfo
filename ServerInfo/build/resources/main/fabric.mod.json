@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "serverinfo",
+  "version": "1.1.0",
+  "name": "ServerInfo",
+  "description": "Center-screen server selector with player lock and world rules.",
+  "authors": ["AtsukiGames"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "server": [
+      "com.atsukigames.serverinfo.ServerInfo"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "fabric-api": "*",
+    "minecraft": "1.21.4"
+  },
+  "mixins": ["serverinfo.mixins.json"]
+}
+

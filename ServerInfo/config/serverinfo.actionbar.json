@@ -1,0 +1,20 @@
+{
+  "actionbar": [
+    {
+      "components": [
+        { "text": "WEB",      "color": "green",     "bold": true },
+        { "text": " >> ",     "color": "dark_gray", "bold": true },
+        { "text": "https://hikaripage.f5.si", "color": "green", "bold": true }
+      ],
+      "time": "3s"
+    },
+    {
+      "components": [
+        { "text": "DISCORD",  "color": "blue",      "bold": true },
+        { "text": " >> ",     "color": "dark_gray", "bold": true },
+        { "text": "https://discord.gg/YpxtcJCNJG", "color": "green", "bold": true }
+      ],
+      "time": "3s"
+    }
+  ]
+}

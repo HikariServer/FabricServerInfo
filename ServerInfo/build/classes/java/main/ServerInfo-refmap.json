@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "com/atsukigames/serverinfo/mixin/ServerPlayNetworkHandlerMixin": {
+      "onHandSwing": "Lnet/minecraft/class_3244;method_12052(Lnet/minecraft/class_2879;)V",
+      "onPlayerInteractBlock": "Lnet/minecraft/class_3244;method_12046(Lnet/minecraft/class_2885;)V",
+      "onPlayerInteractItem": "Lnet/minecraft/class_3244;method_12065(Lnet/minecraft/class_2886;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/atsukigames/serverinfo/mixin/ServerPlayNetworkHandlerMixin": {
+        "onHandSwing": "Lnet/minecraft/class_3244;method_12052(Lnet/minecraft/class_2879;)V",
+        "onPlayerInteractBlock": "Lnet/minecraft/class_3244;method_12046(Lnet/minecraft/class_2885;)V",
+        "onPlayerInteractItem": "Lnet/minecraft/class_3244;method_12065(Lnet/minecraft/class_2886;)V"
+      }
+    }
+  }
+}
